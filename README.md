@@ -142,7 +142,7 @@ Blogs are the best way to learn about anything. You can find really good blogs o
 8. [e2eml](https://e2eml.school/blog.html)
 9. [PyTorch ](https://pytorch.org/tutorials/)Tutorials
 
-**Github Repos**
+### **Github Repos**
 
 1. [Practical DL](https://github.com/yandexdataschool/Practical_DL)
 2. [Practical RL](https://github.com/yandexdataschool/Practical_RL)
