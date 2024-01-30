@@ -181,6 +181,6 @@ At last. **Inter IIT Tech Meet** is a prestigious competition where all IITs com
 
 Forgive me if I made any technical mistakes or for my grammar. The aim was to let others know about different domains and provide them with resources for learning and competing, that have been helpful to me or that I have come across. 
 
-**With Regards,**
-Dhruv Jain
+**With Regards,**//
+Dhruv Jain//
 Electronics Engineering
