@@ -1,4 +1,4 @@
-Over the past year, I have come across some great learning resources or insights about the field of Deep Learning. I don't have much experience or knowledge, but I keep track of things that I come across and I believe it can be helpful to you. I haven't gone through much of this, mostly due to procrastination but, I think it can help you start your own journey and, I hope you make a lot better use of it than I do. 
+Over the past year, I have come across some great learning resources and insights relevant to the field of Deep Learning. I keep track of things that I come across and I believe it can be helpful to you. I haven't gone through much of this, mostly due to procrastination but, I think it can help you start your own journey and, I hope you make a lot better use of it than I do. 
 
 These will mostly be in the context of Deep Learning. My goal here is to leave you with some ideas of the research areas and architecture that have been developed in Deep Learning along with the resources for working and learning about them.
 
