@@ -119,7 +119,7 @@ The people who have changed their whole field literally have uploaded their lect
 2. [NYU DL Course](https://atcold.github.io/NYU-DLSP20/) - Most Expressive 
 3. [David Silver UCL RL](https://www.davidsilver.uk/teaching/) Lectures. 
 4. [MIT Efficient Deep Learning](https://hanlab.mit.edu/courses/2023-fall-65940) Lectures
-5. [Karapathy's Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+5. [Karapathy's Zero to Hero](https://karpathy.ai/zero-to-hero.html) - Karapathy is a legend. 
 
 ### **Readings**
 
