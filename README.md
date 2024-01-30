@@ -60,6 +60,10 @@ Ah, the most intriguing and tough of them all. One of my senior and good friends
 
 There is so much that can be said about the field but, I leave it for you. One really interesting application of RL has been in ChatGPT. Reward Models are being used to **align LLMs** for generating human-preferred answers (**RLHF**). There are some really interesting applications of RL and I think it still is under explored.
 
+Microsoft conducts [https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/](Reinforcement Learning Open Source) (RLOS) Fest each year, where a handful of students are selected from across the world and get a chance to work at Microsoft Research NYC in the domain of RL. 
+
+Ps: One of our **IIT BHU** senior got selected for **RLOS**.
+
 ### **Interpretability / Reverse Engineering**
 
 Not many know about this field but it is one of the most interesting and developing field out there that demands low resources. Mechanistic Interpretability is all about reverse engineering neural networks and gaining an in-depth understanding of how they work or what they learn. Chrish Olah and Neel Nanda have been key contributer and their resources are really great for starting out. I will link them here for you.
@@ -113,7 +117,7 @@ Inter IIT
 
 The people who have changed their whole field literally have uploaded their lectures on YouTube for you to learn.
 
-1. Stanford Courses: [Cs231n](http://cs231n.stanford.edu/) (CV), [Cs224n](https://web.stanford.edu/class/cs224n/) (NLP),[ Cs234](https://web.stanford.edu/class/cs234/)(RL)
+1. Stanford Courses: [Cs231n](http://cs231n.stanford.edu/) (CV), [Cs224n](https://web.stanford.edu/class/cs224n/) (NLP),[ Cs234](https://web.stanford.edu/class/cs234/) (RL)
 
 ​      Stanford courses have course sites with reading materials such as paper and notes. 
 
