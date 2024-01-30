@@ -116,13 +116,10 @@ Inter IIT
 The people who have changed their whole field literally have uploaded their lectures on YouTube for you to learn.
 
 1. Stanford Courses: [Cs231n](http://cs231n.stanford.edu/) (CV), [Cs224n](https://web.stanford.edu/class/cs224n/) (NLP),[ Cs234](https://web.stanford.edu/class/cs234/) (RL)
-
-​      Stanford courses have course sites with reading materials such as paper and notes. 
-
-1. [NYU DL Course](https://atcold.github.io/NYU-DLSP20/) - Most Expressive 
-2. [David Silver UCL RL](https://www.davidsilver.uk/teaching/) Lectures. 
-3. [MIT Efficient Deep Learning](https://hanlab.mit.edu/courses/2023-fall-65940) Lectures
-4. [Karapathy's Zero to Hero](https://karpathy.ai/zero-to-hero.html)
+2. [NYU DL Course](https://atcold.github.io/NYU-DLSP20/) - Most Expressive 
+3. [David Silver UCL RL](https://www.davidsilver.uk/teaching/) Lectures. 
+4. [MIT Efficient Deep Learning](https://hanlab.mit.edu/courses/2023-fall-65940) Lectures
+5. [Karapathy's Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 
 ### **Readings**
 
