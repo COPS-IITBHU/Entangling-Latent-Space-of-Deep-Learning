@@ -174,6 +174,8 @@ You will be surprised to know that there are people around the world who are hum
 
 At last. **Inter IIT Tech Meet** is a prestigious competition where all IITs compete in various domains including ML. It's not a resource but if you make it to the team, you get to learn so much. It's like doing an internship. You get to do research for an accomplished company or lab such as **Adobe, Bosch, Devrev, and ISRO** and present in front of them. The PS is so relevant that you can if did more work make a research publication out of it. But the main motivation should here be doing quality research and winning it for your institution. Projects or Publications are by-products. It gives you a chance to go out there and be the best in your domain across all the IITs. I hope, if you have read this far then you will utilize these resources for your learning and gain the required skills to win **Gold @ Inter IIT**. **Good Luck!**
 
+### **Regards**
+
 Forgive me if I made any technical mistakes or for my grammar. The aim was to let others know about different domains and provide them with resources for learning and competing, that have been helpful to me or that I have come across. 
 
 **With Regards,**\
