@@ -64,9 +64,9 @@ There is so much that can be said about the field but, I leave it for you. One r
 
 Not many know about this field but it is one of the most interesting and developing field out there that demands low resources. Mechanistic Interpretability is all about reverse engineering neural networks and gaining an in-depth understanding of how they work or what they learn. Chrish Olah and Neel Nanda have been key contributer and their resources are really great for starting out. I will link them here for you.
 
-https://distill.pub/2020/circuits/zoom-in/
+[ZoomIn](https://distill.pub/2020/circuits/zoom-in/)
 
-https://www.neelnanda.io/mechanistic-interpretability/getting-started
+[Mechanistic Interpretability](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
 
 ### **Deep Learning Frameworks**
 
@@ -178,7 +178,5 @@ At last. **Inter IIT Tech Meet** is a prestigious competition where all IITs com
 Forgive me if I made any technical mistakes or for my grammar. The aim was to let others know about different domains and provide them with resources for learning and competing, that have been helpful to me or that I have come across. 
 
 **With Regards,**
-
 Dhruv Jain
-
 Electronics Engineering
