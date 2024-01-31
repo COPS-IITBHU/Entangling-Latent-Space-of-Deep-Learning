@@ -113,34 +113,36 @@ Inter IIT
 
 ### **Lectures**
 
-Some people who have made a great impact in their respective area of research have literally put their lectures on YouTube for you to learn.
+People who have made a great impact in their respective area of research literally put their lectures on YouTube for you to learn.
 
 1. Stanford Courses: [Cs231n](http://cs231n.stanford.edu/) (CV), [Cs224n](https://web.stanford.edu/class/cs224n/) (NLP),[ Cs234](https://web.stanford.edu/class/cs234/) (RL)
-2. [NYU DL Course](https://atcold.github.io/NYU-DLSP20/) - Most Expressive 
-3. [David Silver UCL RL](https://www.davidsilver.uk/teaching/) Lectures. 
-4. [MIT Efficient Deep Learning](https://hanlab.mit.edu/courses/2023-fall-65940) Lectures
-5. [Karapathy's Zero to Hero](https://karpathy.ai/zero-to-hero.html) - Karapathy is a legend. 
+2. [NYU DL Course](https://atcold.github.io/NYU-DLSP20/) : Yann LeCun invented CNNs 
+3. [Karapathy's Zero to Hero](https://karpathy.ai/zero-to-hero.html) : Karapathy is a legend
+4. [David Silver UCL RL](https://www.davidsilver.uk/teaching/) : Man behind DeepMind's Go
+5. [MIT Efficient Deep Learning](https://hanlab.mit.edu/courses/2023-fall-65940)
+6. [MIT Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/) : Not exactly ML but very much relevant
 
 ### **Readings**
 
-1. Grokking Deep Learning by Task
-2. Understanding Deep Learning. by Simon J.D. Prince
-3. Little Deep Learning Book
-4. Introduction to RL Sutton Barton
+1. [Grokking Deep Learning ] (https://edu.anarcho-copy.org/Algorithm/grokking-deep-learning.pdf)
+2. [Understanding Deep Learning] (https://udlbook.github.io/udlbook/) 
+3. [Little Deep Learning Book] (https://fleuret.org/public/lbdl.pdf)
+4. [Introduction to RL Sutton & Barton] (https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 ### **Blogs**
 
 Blogs are the best way to learn about anything. You can find really good blogs on Medium and Towards Data Science. I will list here some amazing blogs that I have come across by amazing people.
 
-1. [LiL's Log](https://lilianweng.github.io/): Researcher @ OpenAI, best blogs ever.
-2. [colah's blog](https://colah.github.io/): Co-founder Anthropic, again one of the best.
-3. [AI Summer](https://theaisummer.com/): You can learn about anything related to ML here. 
-4. [Distill Pub](https://distill.pub/): Really great blogs.
+1. [LiL's Log](https://lilianweng.github.io/): Researcher @ OpenAI, best blogs ever
+2. [colah's blog](https://colah.github.io/): Co-founder Anthropic, again one of the best
+3. [AI Summer](https://theaisummer.com/): You can learn about anything related to ML here 
+4. [Distill Pub](https://distill.pub/): Exceptional Research blogs 
 5. [NLP Course for You](https://lena-voita.github.io/nlp_course.html): Blog based course for NLP, pair it with cs224n
 6. [Pincone Library](https://www.pinecone.io/library/): A good database of videos and blogs related to LLM and MultiModal Learning
 7. [Spinning Up RL](https://spinningup.openai.com/en/latest/): Great RL resource by OpenAI
-8. [e2eml](https://e2eml.school/blog.html)
-9. [PyTorch ](https://pytorch.org/tutorials/)Tutorials
+8. [e2eml](https://e2eml.school/blog.html): Compilation of large set of topics related to DL
+9. [PyTorch Tutorials](https://pytorch.org/tutorials/)
+10. [Hugging Face Docs](https://huggingface.co/docs/transformers/index) : Everything you need to Finetune your LLM
 
 ### **Github Repos**
 
@@ -150,7 +152,7 @@ Blogs are the best way to learn about anything. You can find really good blogs o
 
 ### **Competitions**
 
-I have listed competitions as resources because they are the best way to learn. You can always participate in the Techfest and college competitions, but the place to really test it out are competitions @ **Kaggle and AI Crowd**. They host some of the best challenges, that require a dedicated team with experience. But you should always try, "Shoot for the moon and land among the stars". 
+I have listed competitions as resources because they are the best way to learn. You can always participate in the Techfest and college competitions, but the place to really test it out are competitions @ **Kaggle and AI Crowd**. They host some of the best challenges, that require a dedicated team with experience. But you should always try, **"Shoot for the moon and land among the stars".**
 
 **Conference Challenges:** One thing that not many people seem to know is that A* ML conferences such as **CVPR, and NeurIPS** conduct challenges that allow you to do research in a given framework and potentially lead to a paper. Again, they are very competitive and hard, but with the right guidance and hard work, you can do good and learn a lot about ML research.
 
@@ -174,7 +176,7 @@ You will be surprised to know that there are people around the world who are hum
 
 ### **Inter IIT Tech Meet**
 
-At last. **Inter IIT Tech Meet** is a prestigious competition where all IITs compete in various domains including ML. It's not a resource but if you make it to the team, you get to learn so much. It's like doing an internship. You get to do research for an accomplished company or lab such as **Adobe, Bosch, Devrev, and ISRO** and present in front of them. The PS is so relevant that you can if did more work make a research publication out of it. But the main motivation should here be doing quality research and winning it for your institution. Projects or Publications are by-products. It gives you a chance to go out there and be the best in your domain across all the IITs. I hope, if you have read this far then you will utilize these resources for your learning and gain the required skills to win **Gold @ Inter IIT**. **Good Luck!**
+At last. **Inter IIT Tech Meet** is a prestigious competition where all IITs compete in various domains including ML. It's not a resource but if you make it to the team, you get to learn so much. It's like doing an internship. You get to do research for an accomplished company or lab such as **Adobe, Bosch, Devrev, and ISRO** and present in front of them. The PS is so relevant that you can, if did more work, make a research publication out of it. But the main motivation should here be doing quality research and winning it for your institution. Projects or Publications are by-products. It gives you a chance to go out there and be the best in your domain across all the IITs. I hope, if you have read this far then you will utilize these resources for your learning and gain the required skills to win **Gold @ Inter IIT**. **Good Luck!**
 
 ### **Regards**
 
