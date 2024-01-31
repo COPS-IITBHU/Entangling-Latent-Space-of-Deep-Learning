@@ -1,8 +1,8 @@
 Over the past year, I have come across some great learning resources and insights relevant to the field of Deep Learning. I keep track of things that I come across and I believe it can be helpful to you. I haven't gone through much of this, mostly due to procrastination but, I think it can help you start your own journey and, I hope you make a lot better use of it than I do. 
 
-These will mostly be in the context of Deep Learning. My goal here is to leave you with some ideas of the research areas and architecture that have been developed in Deep Learning along with the resources for working and learning about them.
+This will mostly be in the context of Deep Learning. My goal here is to leave you with some idea of the research areas and architecture that have been developed in Deep Learning along with the resources for working and learning about them.
 
-We will first take a peek into **different domains** and then I will link some amazing **resources** that I have came across so far. Sorry about my grammar I wrote this with limited amount of time.
+We will first take a peek into the **different domains** and then I will link some **amazing resources** that I have came across so far. Please pardon my grammar I wrote this with limited amount of time.
 
 ### **Broad Topics**
 
@@ -22,11 +22,11 @@ Efficient Deep Learning
 
 ### **Computer Vision and Generative Modeling**
 
-Computer Vision mainly deals with image modality and how we can learn features in a particular image and use these features to train a deep neural network for a CV task. The features previously were hand-engineered but can be learned by training a special class of Neural Networks called **Convolution Neural Networks (CNN)**. CNN dominates most of the computer vision domain. They are very good at learning the hierarchical composition of an image. The major tasks involved here are **classification** and **segmentation**. Again they are broad classes that can be more specific such as pose estimation, face recognition, super resolution, etc.
+Computer Vision mainly deals with image modality and how we can learn features in a particular image and use these features to train a deep neural network for a CV task. The features previously were hand-engineered but can be learned by training a special class of Neural Networks called **Convolution Neural Networks (CNN)**. CNN dominates most of the computer vision domain. They are very good at learning the hierarchical composition of an image. The major tasks involved here are **classification** and **segmentation**. Again they are broad classes that can be more specified into pose estimation, face recognition, super resolution, etc.
 
-One particular domain within image modality that excites me the most is generative learning. Generative modeling deals with a special range of tasks that don't have any labels. For example, given a particular type class of images, you train the model to learn the distribution and generate more similar images. (**Generative Adversarial Network**) **GANs** have been one of the best pieces of research which have evolved in this area. They are based on generator and discriminator structures. Previously, there were **autoencoders (VAEs),** which used encoder-decoder pipelines**.** They are still relevant in some contexts. 
+One particular domain within this modality that excites me the most is generative modeling. Generative modeling deals with a special range of tasks that don't have any labels. For example, given a particular class of images, you train the model to learn its distribution and generate more similar images. **Generative Adversarial Network** (**GANs**) have been one of the best pieces of research which have evolved in this area. They are based on generator and discriminator structures. Previously, there were **autoencoders (VAEs),** which used encoder-decoder pipelines**.** They are still relevant in some contexts. 
 
-Recently, **Diffusion Models** have been making an impact in the world of generative modeling. They are adapted from a key idea in Thermodynamics. They are being looked at as the successor to GANs. If you have used **Stable Diffusion** or **DALL-E** they use diffusion models at their back end. Along with diffusion models, a special class of models called Transformers(a groundbreaking work in NLP that gave us **ChatGPT**) is also being applied in CV. They are primary models in Natural Language Processing, but have been applied recently here as well and are known as **Vision Transformer**. **Open AI's CLIP** is one of the examples. 
+Recently, **Diffusion Models** have been making an impact in the world of generative modeling. They are adapted from a key idea in Thermodynamics. They are being looked at as the successor to GANs. If you have used **Stable Diffusion** or **DALL-E** they use diffusion models at their backend. Along with diffusion models, a special class of models called Transformers(a groundbreaking work in NLP that gave us **ChatGPT**) is also being applied in Computer Vision. They are primary models in Natural Language Processing, but have been applied recently here as well and are known as **Vision Transformers**. **Open AI's CLIP** is one of the examples. 
 
 Another interesting domain that I think not many know about is **Adversarial Learning**. Adversarial machine learning is the study of the attacks on machine learning algorithms and of the defenses against such attacks. It's like hacking a neural network and learning about its potential parameters. 
 
@@ -44,7 +44,7 @@ Sentences are sequential and are composed of words related to each other. Thus a
 
 **Hugging Face** is the place to go for using different LLMs and Foundation Models. Its a hub where researchers and labs deploy there model for public use. You can load any model and use it or can finetune (if you have compute). 
 
-One thing to note is training such models require a lot of compute (**GPUs or TPU**) which are expensive. So if you are from Electronics you can look into this direction. **"When everyone is digging for gold, sell the shovels".** 
+One thing to note is training such models require a lot of compute (**GPUs or TPU**) which are expensive. So if you are from Electronics you can look into the direction of building GPUs. **"When everyone is digging for gold, sell the shovels".** 
 
 ### **Speech Recognition** 
 
@@ -54,11 +54,11 @@ Different libraries such as librosa can be used for generating audio features. L
 
 ### **Reinforcement Learning**
 
-Ah, the most intriguing and tough of them all. One of my senior and good friends often quotes life in terms of **Reinforcement Learning** and this is why I feel it's an important field. It tries to use the same pattern for learning as we all do. Using a **reward mode**l for teaching a model. The most natural way of learning. Some interesting applications of RL can majorly be seen in training models to play **arcade games and Robotics** in the **controls**. If you are in Robotics, you should look into RL. **Multi-agent RL** involves building multiple agents that interact with each other to either **compete or cooperate** for some tasks.
+Ah, the most intriguing and tough of them all. One of my senior and good friend often quotes life in terms of **Reinforcement Learning** and this is why I feel it's an important field. It tries to use the same pattern for learning as we all do. Using a **reward** for teaching a model. The most natural way of learning. Some interesting applications of RL can majorly be seen in training models to play **arcade games and Robotics Controls** . If you are into Robotics, you should look into RL. Another evolving direction is **Multi-agent RL** (MARL). It involves building multiple agents that interact with each other to either **compete or cooperate** for a particular task.
 
-There is so much that can be said about the field but, I leave it for you. One really interesting application of RL has been in ChatGPT. Reward Models are being used to **align LLMs** for generating human-preferred answers (**RLHF**). There are some really interesting applications of RL and I think it still is under explored.
+There is so much that can be said about the field but, I will leave it to you. One really interesting application of RL has been in ChatGPT. Reward Models are being used to **align LLMs** for generating human-preferred answers (**RLHF**). There are some really interesting applications of RL and I think it still is under explored.
 
-Microsoft conducts [https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/](Reinforcement Learning Open Source) (RLOS) Fest each year, where a handful of students are selected from across the world and get a chance to work at Microsoft Research NYC in the domain of RL. 
+Microsoft conducts [https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/](Reinforcement Learning Open Source) (RLOS) Fest each year, where a handful of students are selected from across the world and get a chance to work at **Microsoft Research NYC** in the domain of RL. 
 
 Ps: One of our **IIT BHU** senior got selected for **RLOS**.
 
