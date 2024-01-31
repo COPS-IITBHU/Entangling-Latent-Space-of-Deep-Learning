@@ -30,7 +30,7 @@ Recently, **Diffusion Models** have been making an impact in the world of genera
 
 Another interesting domain that I think not many know about is **Adversarial Learning**. Adversarial machine learning is the study of the attacks on machine learning algorithms and of the defenses against such attacks. It's like hacking a neural network and learning about its potential parameters. 
 
-PS:  In **the 10th Inter IIT Tech Meet**, **IIT BHU** bagged **a Silver** medal in a problem presented by **Bosch** on Adversarial Learning.
+**Ps**:  In **the 10th Inter IIT Tech Meet**, **IIT BHU** bagged **a Silver** medal in a problem presented by **Bosch** on Adversarial Learning.
 
 ### **Natural Language Processing**
 
@@ -60,7 +60,7 @@ There is so much that can be said about the field but, I will leave it to you. O
 
 [Microsoft conducts Reinforcement Learning Open Source](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) (RLOS) Fest each year, where a handful of students are selected from across the world and get a chance to work at **Microsoft Research NYC** in the domain of RL. 
 
-Ps: One of our **IIT BHU** senior got selected for **RLOS**.
+**Ps**: One of our **IIT BHU** senior got selected for **RLOS**.
 
 ### **Interpretability / Reverse Engineering**
 
@@ -133,7 +133,7 @@ People who have made a great impact in their respective area of research literal
 
 Blogs are the best way to learn about anything. You can find really good blogs on Medium and Towards Data Science. I will list here some amazing blogs that I have come across by amazing people.
 
-1. [LiL's Log](https://lilianweng.github.io/): Researcher @ OpenAI, best blogs ever
+1. [Lil's Log](https://lilianweng.github.io/): Researcher @ OpenAI, best blogs ever
 2. [colah's blog](https://colah.github.io/): Co-founder Anthropic, again one of the best
 3. [AI Summer](https://theaisummer.com/): You can learn about anything related to ML here 
 4. [Distill Pub](https://distill.pub/): Exceptional Research blogs 
@@ -158,7 +158,7 @@ I have listed competitions as resources because they are the best way to learn. 
 
 Use this website to keep track of various ML competitions : [ML Contests](https://mlcontests.com/)
 
-PS: A person in **IIT BHU** secured **World Rank 2** in a **NeurIPS RL Challenge.** 
+**Ps**: A person in **IIT BHU** secured **World Rank 2** in a **NeurIPS RL Challenge.** 
 
 ### **Computes**
 
