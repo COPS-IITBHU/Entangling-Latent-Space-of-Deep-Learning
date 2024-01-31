@@ -164,7 +164,7 @@ I have talked about compute and that how they are expensive. But there are some 
 
 1. **Google Colab**: Colab provides you with T4 GPU. Its a decent one and can be used for small training purposes. 
 2. **Kaggle**
-3. **SuperComputer**: You can get access of supercomputer in the institute which contains A100s as far I know. Allocation of GPUs depends on availability sometimes. 
+3. **SuperComputer**: You can get access of supercomputer in the institute which contains V100s as far I know. Allocation of GPUs depends on availability sometimes. 
 4. **Microsoft Planetary Hub**: Not many know about this but MS provides you with an access to their planetary hub which have decent compute (better than T4 in Colab). You just need to fill a form and submit it takes a few days I guess. Allocation of GPU instance depends on availability and may take time. 
 5. **Microsoft Azure**: You get some free credits with your institute ID with a limit of 3 months. You can use it for a project which involves some large training. 
 
