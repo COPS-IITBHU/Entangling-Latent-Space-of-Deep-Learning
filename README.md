@@ -154,6 +154,8 @@ I have listed competitions as resources because they are the best way to learn. 
 
 **Conference Challenges:** One thing that not many people seem to know is that A* ML conferences such as **CVPR, and NeurIPS** conduct challenges that allow you to do research in a given framework and potentially lead to a paper. Again, they are very competitive and hard, but with the right guidance and hard work, you can do good and learn a lot about ML research.
 
+Use this website to keep track of various ML competitions : [https://mlcontests.com/](ML Contests)
+
 PS: A person in **IIT BHU** secured **World Rank 2** in a **NeurIPS RL Challenge.** 
 
 ### **Computes**
