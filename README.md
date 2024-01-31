@@ -124,10 +124,10 @@ People who have made a great impact in their respective area of research literal
 
 ### **Readings**
 
-1. [Grokking Deep Learning ] (https://edu.anarcho-copy.org/Algorithm/grokking-deep-learning.pdf)
-2. [Understanding Deep Learning] (https://udlbook.github.io/udlbook/) 
-3. [Little Deep Learning Book] (https://fleuret.org/public/lbdl.pdf)
-4. [Introduction to RL Sutton & Barton] (https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+1. [Grokking Deep Learning ](https://edu.anarcho-copy.org/Algorithm/grokking-deep-learning.pdf)
+2. [Understanding Deep Learning](https://udlbook.github.io/udlbook/) 
+3. [Little Deep Learning Book](https://fleuret.org/public/lbdl.pdf)
+4. [Introduction to RL Sutton & Barton](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 ### **Blogs**
 
