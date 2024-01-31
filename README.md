@@ -113,7 +113,7 @@ Inter IIT
 
 ### **Lectures**
 
-The people who have changed their whole field literally have uploaded their lectures on YouTube for you to learn.
+Some people who have made a great impact in their respective area of research have literally put their lectures on YouTube for you to learn.
 
 1. Stanford Courses: [Cs231n](http://cs231n.stanford.edu/) (CV), [Cs224n](https://web.stanford.edu/class/cs224n/) (NLP),[ Cs234](https://web.stanford.edu/class/cs234/) (RL)
 2. [NYU DL Course](https://atcold.github.io/NYU-DLSP20/) - Most Expressive 
