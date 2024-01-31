@@ -170,7 +170,7 @@ I have talked about compute and that how they are expensive. But there are some 
 
 ### **Communities** 
 
-You will be surprised to know that there are people around the world who are humble enough to help you and guide you. These people have formed open communities where they take sessions, do paper readings, and invite great researchers to do research projects and collaborations. You can literally just joint the **discord server** and interact with so many amazing people. There are communities from **Cohere, EleutherAI** and many others. I have been a part of them and they are amazing. I have met some of our alumns there as well.
+You will be surprised to know that there are people around the world who are humble enough to help you and guide you. These people have formed open communities where they take sessions, do paper readings, and invite great researchers and do research projects and collaborations. You can literally just join their **discord server** and interact with so many amazing people. There are communities from **Cohere, EleutherAI** and many others. I have been a part of them and they are amazing. I have met some of our alumns there as well.
 
 ### **Inter IIT Tech Meet**
 
